@@ -84,7 +84,7 @@ const embeds = [
             iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif?ex=66394e37&is=6637fcb7&hm=923d3f3b300606a2ae4ceb7bae980fd533a4c5ee2cf73111569a892a595f1f69&', 
             url: 'https://discord.gg/xQF9f9yUEM'
         })
-        .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**'),
+        .setDescription('➡️ **Música processada <3**\n➡️** Por favor, use os botões para controlar a fila**'),
 
  
     new EmbedBuilder()
@@ -94,7 +94,7 @@ const embeds = [
         iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236802032938127470/4104-verify-yellow.gif?ex=66395527&is=663803a7&hm=71a7fba7f91897e52d9645b45d85d3da0ff97af2b63d10960004e68ff40d9c3b&', 
         url: 'https://discord.gg/xQF9f9yUEM'
     })
-    .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**'),
+    .setDescription('➡️ **Música processada!.**\n➡️** Please use the buttons to control the queue**'),
 
   
     new EmbedBuilder()
