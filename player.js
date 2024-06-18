@@ -74,26 +74,26 @@ function initializePlayer(client) {
 
         const queueLoopButton = new ButtonBuilder()
             .setCustomId("loopQueue")
-            .setLabel("Loop na Fila")
+            .setLabel("Loop na Fila 🔄")
             .setStyle(ButtonStyle.Primary);
 
         const disableLoopButton = new ButtonBuilder()
             .setCustomId("disableLoop")
-            .setLabel("Desativar Loop")
+            .setLabel("Desativar Loop ✖️")
             .setStyle(ButtonStyle.Primary);
 
         const skipButton = new ButtonBuilder()
             .setCustomId("skipTrack")
-            .setLabel("Pular")
+            .setLabel("Pular ⏭️")
             .setStyle(ButtonStyle.Success);
 
         const showQueueButton = new ButtonBuilder()
             .setCustomId("showQueue")
-            .setLabel("Mostrar Fila")
+            .setLabel("Mostrar Fila 🎶")
             .setStyle(ButtonStyle.Primary);
         const clearQueueButton = new ButtonBuilder()
             .setCustomId("clearQueue")
-            .setLabel("Limpar Fila")
+            .setLabel("Limpar Fila ➖")
             .setStyle(ButtonStyle.Danger);
 
     
